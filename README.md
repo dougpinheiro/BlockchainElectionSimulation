@@ -165,7 +165,7 @@ System.out.println("Blockchain is safe: "+bc.isBlockchainSafe());
 
 ## Versioning
 
-We use [Maven](https://maven.apache.org/) for versioning. For the versions available, see the [tags on this repository](https://github.comdougpinheiro/BlockchainElectionSample/tags). 
+We use [Maven](https://maven.apache.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/dougpinheiro/BlockchainElectionSample/tags). 
 
 ## Author
 
